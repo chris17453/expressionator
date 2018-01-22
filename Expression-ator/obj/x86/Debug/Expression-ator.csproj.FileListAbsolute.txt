@@ -1,0 +1,14 @@
+C:\Users\money\Documents\Visual Studio 10\Projects\Expression-ator\Expression-ator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\money\Documents\Visual Studio 10\Projects\Expression-ator\Expression-ator\bin\Debug\Expression-ator.exe
+C:\Users\money\Documents\Visual Studio 10\Projects\Expression-ator\Expression-ator\bin\Debug\Expression-ator.pdb
+C:\Users\money\Documents\Visual Studio 10\Projects\Expression-ator\Expression-ator\obj\x86\Debug\Expression-ator.exe
+C:\Users\money\Documents\Visual Studio 10\Projects\Expression-ator\Expression-ator\obj\x86\Debug\Expression-ator.pdb
+C:\Users\Zorg\Documents\Visual Studio 2008\Expression-ator\Expression-ator\obj\x86\Debug\Expression-ator.exe
+C:\Users\Zorg\Documents\Visual Studio 2008\Expression-ator\Expression-ator\obj\x86\Debug\Expression-ator.pdb
+C:\Users\Zorg\Documents\Visual Studio 2008\Expression-ator\Expression-ator\bin\Debug\Expression-ator.exe
+C:\Users\Zorg\Documents\Visual Studio 2008\Expression-ator\Expression-ator\bin\Debug\Expression-ator.pdb
+C:\Users\Zorg\Documents\Visual Studio 2008\Expression-ator\Expression-ator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects\Expression-ator\Expression-ator\obj\x86\Debug\Expression-ator.exe
+F:\Projects\Expression-ator\Expression-ator\obj\x86\Debug\Expression-ator.pdb
+C:\cw\Expression-ator\Expression-ator\obj\x86\Debug\Expression-ator.exe
+C:\cw\Expression-ator\Expression-ator\obj\x86\Debug\Expression-ator.pdb
